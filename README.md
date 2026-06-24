@@ -1,6 +1,8 @@
 ﻿# GTO Market Making Strategy Dashboard
 
 An interactive, modular quantitative trading terminal that builds a predictive Markov Chain transition matrix and pairs it with a multi-path Monte Carlo simulation engine to execute an inventory-skew-adjusted Game-Theoretic Optimal (GTO) market-making algorithm.
+
+
 to try the app: https://gtomarchovtradingstratagy-rowddxycwxohtso3djf6r6.streamlit.app/
 
 ---
